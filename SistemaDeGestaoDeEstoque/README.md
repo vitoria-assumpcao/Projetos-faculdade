@@ -44,20 +44,5 @@ Após autenticação, apresenta um menu com as seguintes opções:
 - Solicita confirmação do usuário antes de encerrar.
 - Usa a função `exit(1)` para finalizar o programa (necessário incluir `stdlib.h`).
 
-## Critérios de Avaliação
-1. **Autenticação do usuário**: 2,0 pontos
-2. **Controle de estoque**: 1,5 pontos
-3. **Cadastro de produto**: 2,0 pontos
-4. **Busca de produto**: 2,0 pontos
-5. **Exibição dos produtos**: 1,5 pontos
-6. **Saída do programa**: 1,0 ponto
-
-## Entrega
-- A atividade deve ser entregue até **29/07/2024 às 23:55**.
-- Submeter um arquivo `.zip` contendo o projeto implementado (código-fonte).
-- **Não serão aceitos links para repositórios de arquivos.**
-
----
-**Bom trabalho!**
 
 
